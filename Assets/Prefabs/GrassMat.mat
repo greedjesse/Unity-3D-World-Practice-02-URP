@@ -141,19 +141,19 @@ Material:
     - _TerrainSize: 50
     - _WindHeight: 0.2
     - _WindIntensity: 0.05
-    - _WindNoiseSpeed: 0.5
-    - _WindSpeed: 0.1
+    - _WindNoiseSpeed: 0.1
+    - _WindSpeed: 0.5
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 0.36217132, g: 0.8396226, b: 0.20990565, a: 1}
-    - _BottomColor: {r: 0.05887327, g: 0.36557528, b: 0.46226418, a: 0}
+    - _BottomColor: {r: 0.10399607, g: 0.43245918, b: 0.5377358, a: 0}
     - _Color: {r: 0.3621713, g: 0.8396226, b: 0.20990562, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FarColor: {r: 0.19090424, g: 0.735849, b: 0.22922067, a: 0}
     - _NearColor: {r: 0.4504211, g: 0.9150943, b: 0.22014059, a: 0}
     - _NearFarRange: {r: 3, g: 15, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _WindNoiseContrast: {r: 0, g: 1, b: 0, a: 0}
-    - _WindNoiseScale: {r: 10, g: 20, b: 0, a: 0}
+    - _WindNoiseContrast: {r: 0.05, g: 0.3, b: 0, a: 0}
+    - _WindNoiseScale: {r: 200, g: 400, b: 0, a: 0}
   m_BuildTextureStacks: []
